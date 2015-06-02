@@ -1,0 +1,24 @@
+{
+  "name": "flapper-news",
+  "version": "0.0.1",
+  "homepage": "https://github.com/green-leaves/flapper-news",
+  "authors": [
+    "green-leaves <duytiep@gmail.com>"
+  ],
+  "description": "sample app using mean",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0"
+  }
+}
