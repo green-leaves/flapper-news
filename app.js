@@ -24,3 +24,7 @@ function($scope){
 		$scope.title = '';
 	};
 }]);
+
+app.factory('posts', function() {
+
+});
